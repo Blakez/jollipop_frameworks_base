@@ -4919,4 +4919,7 @@
 
     <!-- In WiFi AP notification -->
     <string name="notify_turn_wifi_ap_off_title">Turn Wi-Fi AP off</string>
+
+    <!-- Long Press Back Button to Kill App -->
+    <string name="app_killed_message">The previous app has been killed.</string>
 </resources>
