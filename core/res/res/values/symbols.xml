@@ -2087,9 +2087,6 @@
   <java-symbol name="global_action_reboot" type="string" />
   <java-symbol type="string" name="reboot_progress" />
 
-  <!-- Data Connectivity Error Configurations -->
-  <java-symbol type="bool" name="config_reject_ggsn_perm_failure" />
-  <java-symbol type="bool" name="config_protocol_errors_perm_failure" />
   <!-- config softap extention feature -->
   <java-symbol type="bool" name="config_softap_extention" />
 
