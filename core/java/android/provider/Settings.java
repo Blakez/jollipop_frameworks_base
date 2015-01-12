@@ -2509,6 +2509,12 @@ public final class Settings {
         public static final String LOCKSCREEN_SOUNDS_ENABLED = "lockscreen_sounds_enabled";
 
         /**
+         * Whether to play sounds when a screenshot is taken.
+         * @hide
+         */
+        public static final String SCREENSHOT_SOUNDS_ENABLED = "screenshot_sounds_enabled";
+
+        /**
          * Whether the lockscreen should be completely disabled.
          * @hide
          */
@@ -2697,6 +2703,7 @@ public final class Settings {
             POWER_SOUNDS_ENABLED,       // moved to global
             DOCK_SOUNDS_ENABLED,        // moved to global
             LOCKSCREEN_SOUNDS_ENABLED,
+            SCREENSHOT_SOUNDS_ENABLED,
             SHOW_WEB_SUGGESTIONS,
             NOTIFICATION_LIGHT_PULSE,
             SIP_CALL_OPTIONS,
